@@ -1,3 +1,3 @@
 @echo off
-start cmd /k echo dddddddddddddddddddddddddddd
+start vooooooooooooooooooiiiiiiiiiiiiiiiiiiiiiiii
 pause
