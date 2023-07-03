@@ -1,6 +1,3 @@
 @echo off
-:loop
-echo hi
-echo kooooooo
-goto loop
+start chrome
 pause
