@@ -1,3 +1,3 @@
 @echo off
-start cmd /k echo Hoooooo
+start cmd /k echo clslslslslsls
 pause
