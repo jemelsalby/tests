@@ -1,3 +1,3 @@
 @echo off
-start chrome
+start cmd /k echo Hi
 pause
