@@ -1,3 +1,3 @@
 @echo off
-start vooooooooooooooooooiiiiiiiiiiiiiiiiiiiiiiii
+start cmd \k echo hi
 pause
